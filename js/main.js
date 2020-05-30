@@ -79,7 +79,7 @@
 		            required: "Write your name here"
 		        },
 		        email: {
-		            required: "No email, no support"
+		            required: "Please enter a valid email"
 		        },
 		        subject: {
 		            required: "you have a reason to contact, write it here"
